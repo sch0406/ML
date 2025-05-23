@@ -7,7 +7,7 @@ Created on Mon May 12 07:53:38 2025
 
 import streamlit as st
 import pandas as pd
-import nympy as np
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from sklearn.ensemble import RandomForestRegressor
